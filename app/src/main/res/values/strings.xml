@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PassDate</string>
+    <string name="startDate">Дата-время старта задачи: </string>
+    <string name="endDate">Дата-время окончания задачи: </string>
+    <string name="ok">OK</string>
+
+    <string name="error">Ошибка </string>
+    <string name="start">старт: </string>
+    <string name="end"> окончаниe: </string>
+</resources>
